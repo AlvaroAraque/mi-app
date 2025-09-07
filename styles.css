@@ -17,7 +17,7 @@ body {
 
 h1, h2 {
   text-align: center;
-  color: #a9aa4d;
+  color: #2cdce2;
 }
 
 form {
@@ -40,7 +40,7 @@ input, select {
 button {
   margin-top: 20px;
   padding: 10px;
-  background-color: hsl(0, 0%, 37%);
+  background-color: hsl(187, 98%, 20%);
   color: white;
   border: none;
   border-radius: 5px;
